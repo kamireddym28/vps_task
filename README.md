@@ -16,12 +16,8 @@
  - ***index.html*** :  Information that has to be displayed on the web page is written here using appropriate semantic tags
  - ***css/style.css*** : Elements in the .html are styled here as needed
  - ***css/reset.css*** : Normalized css file which can be downloaded from web
- - ***js/main.js*** :  Functionality needed to perform Ajax POST and GET are written here                                
+ - ***js/main.js*** :  Functionality needed to perform Ajax POST and GET requests are written here                                
 			     
-## Demo
-
- Webpage with list of device names can be seen[here] ()
-
 ## Couresy
 
  Minified reset.css was used to ensure proper normalizing of webpage
